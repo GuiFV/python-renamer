@@ -6,8 +6,11 @@ I created it to solve a problem with file names auto generated in Nikon folders 
 ## How to use:
 
 1 - Run this script as a stand-alone (terminal > python python-renamer.py) inside a root folder of the files you want to perform the name changing
+
 2 - Type the character or string you want to change
+
 3 - Type in which position you want it to change (i.e:. if you choose "a" in step 2, now you choose which "a" should be changed, the first one the script finds, the second one, etc)
+
 4 - Type what should the script change the character/string to
 
 Every step is printed in terminal with step by step questions, including result in changes.
