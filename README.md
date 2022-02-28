@@ -1,7 +1,7 @@
 # Python Renamer
 This script changes file names in bulk. It was one of my first python scripts.
 
-I created it to solve a problem with files names auto generated in Nikon folders after 9999 photos taken with my D90, but this can be used to change or remove arbitrary characters or strings that repeat themselves in files inside a folder.
+I created it to solve a problem with file names auto generated in Nikon folders after 9999 photos taken with my D90, but this can be used to change or remove arbitrary characters or strings that repeat themselves in files inside a folder.
 
 ## How to use:
 
