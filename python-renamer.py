@@ -31,7 +31,7 @@ def main():
         if (len(subfolder_name) < 1): 
             folder = os.getcwd()
         else:
-            folder = os.getcwd()+"/"+subfolder_name
+            folder = f'{os.getcwd()}/{subfolder_name}'
         try:
             os.listdir(folder)
             print("- "*40, "\n" "Selected folder is: ", folder, "\n\nFiles found:\n")
